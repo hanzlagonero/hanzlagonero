@@ -4,6 +4,11 @@
 <h3>BS Computer Science | Fullstack Web Developer</h3>
 </p>
 
+<p align="left">
+  <strong>Open for web development commissions!</strong><br />
+  For inquiries, reach out via email: <a href="mailto:hanzlagonero@gmail.com">hanzlagonero@gmail.com</a>
+</p>
+
 ***
 
 <h3 align="left">Skills</h3>
